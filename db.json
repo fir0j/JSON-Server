@@ -1,28 +1,26 @@
-{
-	"MenuList": [
-		{
-			"id": 1,
-			"name": "pizza",
-			"price": 400,
-			"type": "pizza"
-		},
-		{
-			"id": 2,
-			"name": "burger",
-			"price": 250,
-			"type": "burger"
-		},
-		{
-			"id": 3,
-			"name": "pasta",
-			"price": 175,
-			"type": "pasta"
-		},
-		{
-			"id": 4,
-			"name": "sandwitch",
-			"price": 95,
-			"type": "sandwitch"
-		}
-	]
-}
+[
+	{
+		"id": 1,
+		"name": "pizza",
+		"price": 400,
+		"type": "pizza"
+	},
+	{
+		"id": 2,
+		"name": "burger",
+		"price": 250,
+		"type": "burger"
+	},
+	{
+		"id": 3,
+		"name": "pasta",
+		"price": 175,
+		"type": "pasta"
+	},
+	{
+		"id": 4,
+		"name": "sandwitch",
+		"price": 95,
+		"type": "sandwitch"
+	}
+]
